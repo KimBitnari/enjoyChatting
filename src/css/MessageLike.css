@@ -1,0 +1,16 @@
+.likeBtn {
+    cursor: pointer;
+    border: none;
+    background-color: inherit;
+}
+
+.addEmoBtn {
+    cursor: pointer;
+    border: none;
+    background-color: grey;
+    color: white;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1px 15px;
+    margin-right: 5px;
+}

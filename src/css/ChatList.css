@@ -1,0 +1,91 @@
+.header {
+    background-color: #88bd94;
+    height: 70px;
+    margin-bottom: 50px;
+}
+
+.chatListTitle {
+    float: left;
+    padding: 13px 0 0 20px;
+    margin-top: 0;
+    margin-bottom: 60px;
+    text-align: center;
+    color: #487552;
+}
+
+.logUser {
+    float: right;
+    margin: 25px 50px 0 0;
+}
+
+.logoutBtn {
+    float: right;
+    margin: 15px 20px 0 0;
+    padding: 8px 12px;
+    color: #487552;
+    border: 1px solid #487552;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.roomAddBtn {
+    border: 1px solid #88bd94;
+    border-radius: 35px;
+    background-color: #88bd94;
+    padding: 5px;
+    width: 10%;
+    text-align: center;
+    margin-left: 20px;
+    cursor: pointer;
+}
+samp {
+    font-size: 10px;
+    color: red;
+}
+
+.roomList {
+    width: 45%;
+    float: left;
+    padding: 2%;
+}
+
+table {
+    width: 100%;
+    border-top: 1px solid #444444;
+    border-collapse: collapse;
+}
+th, td {
+    border-bottom: 1px solid #444444;
+    padding: 10px;
+    text-align: center;
+}
+.w1 {
+    width: 5%;
+}
+.w2 {
+    width: 15%;
+}
+.w3 {
+    width: 50%;
+}
+.tableHeader {
+    background-color: #aec9aba8;
+}
+.public {
+    font-weight: 600;
+    color: #1a39c596;
+}
+.private {
+    font-weight: 600;
+    color: #923ec29f;
+}
+.enterCtn {
+    border: 1px solid #d97974b7;
+    border-radius: 35px;
+    background-color: #d97974b7;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+}

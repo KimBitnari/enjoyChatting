@@ -1,0 +1,44 @@
+.backBtn {
+    color: #487552;
+    margin: 25px 0 10px 60px;
+    cursor: pointer;
+}
+
+.sign-up-wrap {
+    width: 70%;
+    margin: auto;
+    border: 2px solid #88bd94;
+    border-radius: 15px;
+}
+
+.title {
+    margin-bottom: 60px;
+    text-align: center;
+    color: #487552;
+}
+
+.sign-up-form {
+    padding: 15px;
+}
+
+.sign-up-text {
+    border: 3px solid #88bd94;
+    border-radius: 25px;
+    height: auto; 
+    line-height : normal;
+    padding: .4em .6em;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 40%;
+}
+
+.sign-up-submitBtn {
+    border: 1px solid #88bd94;
+    border-radius: 35px;
+    background-color: #88bd94;
+    padding: 13px;
+    width: 20%;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+}

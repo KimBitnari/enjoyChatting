@@ -1,0 +1,93 @@
+.mBax {
+    margin-bottom: 6%;
+}
+.myMessage {
+    background-color: #ebdf94;
+    max-width: 30%;
+    float: right;
+    margin-right: 3%;
+    padding: 2% 3%;
+    border-radius: 5px;
+}
+.editBtn {
+    float: right;
+    margin-right: 3%;
+    margin-top: 1%;
+    font-size: 14px;
+    color: #787878;
+    cursor: pointer;
+}
+
+.otherMessage {
+    background-color: #d4d4d4;
+    max-width: 30%;
+    float: left;
+    margin-left: 3%;
+    margin-right: 1%;
+    padding: 2% 3%;
+    border-radius: 5px;
+}
+
+.mNickName {
+    float: left;
+    margin-left: 3%;
+    margin-bottom: .5%;
+}
+
+.chatBoard {
+    height: 500px;
+    overflow: scroll;
+}
+
+.sendBox {
+    padding: 3%;
+    margin-bottom: 10%;
+    width: 55%;
+    float: left;
+}
+.sendMessage {
+    float: left;
+    width: 70%;
+    height: 100px;
+    border: 3px solid #88bd94;
+    border-radius: 25px;
+}
+.sendBtn {
+    float: left;
+    width: 10%;
+    margin-left: 5%;
+    border: 1px solid #88bd94;
+    border-radius: 35px;
+    background-color: #88bd94;
+    padding: 13px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.userList {
+    float: left;
+    width: 35%;
+    height: 150px;
+    border: 1px solid #88bd94;
+    border-radius: 5px;
+}
+
+.roomPartiName {
+    float: left;
+}
+
+.roomOutBtn {
+    width: 22%;
+    float: left;
+    background-color: #d16262;
+    color: white;
+    padding: 3px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+li {
+    margin-bottom: 5px;
+}
